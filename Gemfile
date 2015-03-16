@@ -1,4 +1,6 @@
 source 'http://production.s3.rubygems.org'
-ruby '1.9.3'
-
+ruby '2.1.2'
 gem 'cucumber'
+gem 'selenium-webdriver'
+gem 'capybara'
+gem 'rspec'
